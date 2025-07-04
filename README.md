@@ -98,9 +98,9 @@ nginx-lens syntax
 ### Установка с помощью bash-скрипта (Рекомендуется)
 
 ```bash
-wget https://raw.githubusercontent.com/shelovesuastra/nginx-lens/install-nginx-lens.sh
+wget https://raw.githubusercontent.com/shelovesuastra/nginx-lens/refs/heads/main/install-nginx-lens.sh
 # или
-curl https://raw.githubusercontent.com/shelovesuastra/nginx-lens/install-nginx-lens.sh
+curl https://raw.githubusercontent.com/shelovesuastra/nginx-lens/refs/heads/main/install-nginx-lens.sh
 
 chmod +x install-nginx-lens.sh
 
